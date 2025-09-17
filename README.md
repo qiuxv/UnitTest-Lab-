@@ -1,4 +1,4 @@
-问：What did you do in this project?
+问：What did you do in this project?\n
 答：I completed all the experiments and wrote the paper.
 问：你的隐私保护项目中是如何去除隐私信息的。
 答：我们的方法基于这样的前提，首先，我们要保护的隐私，也就是原数据集中存在的隐私，应该不存在于互联网中。如果这个隐私能够通过简单的google得到那么也不算是非常隐私了。然后也不应该存在于画图模型的数据集中。这也是符合一般情况的。而我们最终生成的脱敏数据集的信息来源只有互联网络和生成模型两个，而这两个都不存在隐私信息，自然脱敏数据集也不存在隐私信息。
